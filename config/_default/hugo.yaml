@@ -1,0 +1,43 @@
+languageCode: en-us
+title: Ramindo Autonesia Dinamika
+theme: ralt
+baseURL: "/"
+outputs:
+  home: ['HTML','JSON']
+enableRobotsTXT: true
+params:
+  contacts:
+    address: 'Jl. KH.Moh.Mansyur No.175A, RT.1/RW.2, Duri Utara, Kec. Tambora, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11270'
+    google_map_url: 'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7933.670262054135!2d106.807663!3d-6.15283!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f60dc106c7a7%3A0x13319be78932c87e!2sPT.%20Ramindo%20Autonesia%20Dinamika!5e0!3m2!1sen!2sid!4v1687183732597!5m2!1sen!2sid'
+    whatsapp: '628990173505'
+    phone:
+      - '(021) 6319619'
+      - '(021) 6319310'
+      - '(021) 6315671'
+    email: 'ramindo_id@yahoo.com'
+    ecommerce:
+      - name: 'Tokopedia'
+        url: 'https://www.tokopedia.com/ramindo'
+  brands:
+    - name: 'blackbear'
+      title: 'BlackBear'
+    - name: 'comeup'
+      title: 'ComeUp'
+    - name: 'kio'
+      title: 'KIO'
+    - name: 'ramsey'
+      title: 'Ramsey'
+    - name: 'cablecraft'
+      title: 'Cablecraft'
+    - name: 'hardwork'
+      title: 'HardWork'
+    - name: 'iph'
+      title: 'Interpump Hydraulics (IPH)'
+    - name: 'atlantic'
+      title: 'Atlantic'
+    - name: 'maxpull'
+      title: 'Maxpull'
+    - name: 'fuji'
+      title: 'Fuji'
+    - name: 'vital'
+      title: 'Vital'

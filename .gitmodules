@@ -1,0 +1,6 @@
+[submodule "themes/ralt"]
+	path = themes/ralt
+	url = ../ralt.git
+[submodule "assets/specs"]
+	path = assets/specs
+	url = ../specs.git
