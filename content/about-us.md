@@ -21,10 +21,9 @@ dan lifting equipment, electric chain hoist dan crane, alat hydrolik, serta
 lift barang.</p>
 {{</renderer>}}
 
-Kami merupakan satu-satunya importir dan agen tunggal resmi (sole agent dan
-authorized distributor) dari produk merk Black Bear dan ComeUp di Indonesia.
-Oleh karena itu, kami sangat menjamin mutu dan kualitas dari setiap produk yang
-kami tawarkan.
+Kami merupakan agen resmi produk merk Black Bear dan ComeUp di Indonesia. Oleh
+karena itu, kami sangat menjamin mutu dan kualitas dari setiap produk yang kami
+tawarkan.
 
 Berfokus pada efisiensi dan produktivitas dalam hal pemindahan barang,
 penggunaan hoist dan crane sangatlah diperlukan dalam sehari-hari. Selain
